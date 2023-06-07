@@ -1,0 +1,169 @@
+h1 {
+    background-image: linear-gradient(rgb(4, 13, 25), rgb(136, 95, 197));
+    font-family: Comic;
+    margin: 5px;
+    text-align: center;
+    opacity: 0.8;
+    color: blue;
+    border: solid 2px;
+    border-radius: 12px;
+    color: blue;
+    text-shadow: 2px 2px yellow;
+}
+
+.pix01 {
+
+    text-align: center;
+    color: blue;
+    background-image: url("https://www.luciefournier.com/pulsepro/data/img/gallery/Riddick-3-2012--en/2012039.jpg");
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 5px;
+    margin: 5px 5px 5px;
+    border: solid 2px;
+    Border-radius: 15px;
+    opacity: 77%;
+    height: 700px;
+}
+
+.pix02{
+    text-align: center;
+    color: grey;
+    background-image: url("https://static.wikia.nocookie.net/disney/images/4/47/Winnie-the-pooh-disneyscreencaps.com-6086.jpg/revision/latest/scale-to-width-down/1000?cb=20150403133003");
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 5px;
+    margin: 0px 0px 0px;
+    border: solid 2px;
+    Border-radius: 15px;
+    opacity: 88%;
+    height: 700px;
+}
+
+
+.pix03{
+    text-align: center;
+    color: grey;
+    background-image: url("https://rare-gallery.com/thumbs/1121881-illustration-abstract-symmetry-The-Legend-of-Zelda-symbols-light-star-darkness-wing-screenshot-computer-wallpaper-fractal-art-astronomical-object.jpg");
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 5px;
+    margin: 0px 0px 0px;
+    border: solid 2px;
+    Border-radius: 15px;
+    opacity: 77%;
+    height: 700px;
+}
+
+.txt01{
+    color: white;
+    text-shadow: black 2px 2px;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 34%;
+    opacity: 77%;
+}
+
+.txt02{
+    color: white;
+    text-shadow: black 2px 2px;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 16px;
+    opacity: 77%;
+}
+
+.txt00{
+    color: transparent;
+}
+
+.ntshll{
+    color: rgba(99, 44, 44, 0.925);
+    border:solid 20px;
+    border-radius: 34%;
+
+}
+
+
+
+a:visited {
+    color: white;
+    text-decoration-color: transparent;
+
+}
+
+a:visited:hover {
+    color: black;
+    text-decoration-color: transparent;
+
+}
+
+nav {
+    border-radius: 16px;
+    color: blue;
+    text-align: center;
+    /*text-shadow: 2px 2px yellow;*/
+
+}
+
+td:hover {
+    border: solid 2px;
+    background-color: rgb(196, 239, 201);
+    border-radius: 16px;
+    color: black;
+    text-align: center;
+    /*text-shadow: 2px 2px yellow;*/
+
+}
+
+ul {
+    margin: auto;
+    list-style-type: none;
+}
+
+
+h2{
+    text-align: center;
+    text-shadow: blue 5px 1px;
+    color: rgb(215, 250, 215);
+    background-color: black;
+    opacity: 75%;
+}
+
+table {
+    height: 40px ;
+    margin: auto; 
+    border: solid 2px;
+    border-radius: 16px;
+    background-color: black;
+    opacity: 75%;  
+}
+
+body {
+    margin: 5px;
+    background-color: rgb(186, 192, 253);
+    background-size: 777px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flower_of_Life_Infinite_Pattern_Sacred_Geometry.png/607px-Flower_of_Life_Infinite_Pattern_Sacred_Geometry.png");
+    border: solid 2px;
+    border-radius: 12px;
+    color: blue;
+    height: 100%;
+    float: bottom;
+}
+
+footer {
+
+    background-color: rgb(7, 2, 23);
+    border: solid 2px;
+    border-radius: 12px;
+    color: blue;
+    text-align: center;
+    float: bottom;
+    opacity: .50;
+}
